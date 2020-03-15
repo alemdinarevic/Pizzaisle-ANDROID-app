@@ -1,0 +1,4 @@
+#Thu Jun 07 02:09:42 EET 2018
+base.0=/Users/alemdinarevic/Desktop/Projects/Pizza Order ANDROID/AndroidPizza/app/build/intermediates/transforms/dexMerger/debug/18
+renamed.0=classes.dex
+file.0=/Users/alemdinarevic/Desktop/Projects/Pizza Order ANDROID/AndroidPizza/app/build/intermediates/transforms/dexMerger/debug/18/classes.dex
